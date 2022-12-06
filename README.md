@@ -1,9 +1,9 @@
 # Turtlebot3-with-D435i-and-RplidarA1
 This is a simple repository with Turtlebot3 with D435i urdf and RplidarA1
-Please you get 
+#Please you get 
   Realsense-ros https://github.com/IntelRealSense/realsense-ros
   Rplidar       https://github.com/Slamtec/rplidar_ros 
-How to use it?
+#How to use it?
   In Remote PC
   For Rplidar A1 : Replace package/turtlebot3_bringup/luanch
       $ roscd rplidar_ros/scripts/ &&  ./create_udev_rules.sh
