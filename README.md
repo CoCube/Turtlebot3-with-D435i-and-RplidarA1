@@ -26,5 +26,5 @@ How to use it?
 -----------------------------------------------------------------------------------------------------------------------------      
   >In Remote PC
   
-  >For D435i      : Replace package/turtlebot3_description/urdf/turtlebot3_waffle.urdf.xacro and join in the _d435.urdf.xacro and _d435.urdf.gazebo.xacro
+    For D435i      : Replace package/turtlebot3_description/urdf/turtlebot3_waffle.urdf.xacro and join in the _d435.urdf.xacro and _d435.urdf.gazebo.xacro
  
